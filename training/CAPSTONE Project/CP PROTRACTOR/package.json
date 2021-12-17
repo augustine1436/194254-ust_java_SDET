@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "protractor": "^7.0.0",
-    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
-  }
-}
